@@ -45,7 +45,7 @@ catalogs:
     '@iconify-json/svg-spinners': ^1.2.4
   nuxt:
     '@nuxt/content': ^3.6.3
-    '@nuxt/devtools': ^2.6.3
+    '@nuxt/devtools': ^3.3.1
     '@nuxt/eslint': ^1.9.0
     '@nuxt/icon': ^2.0.0
     '@nuxt/image': ^1.11.0
@@ -58,7 +58,7 @@ catalogs:
     '@unocss/nuxt': ~66.4
     '@vueuse/nuxt': ^13.9.0
     nuxi: ^3.28.0
-    nuxt: ^4.1.1
+    nuxt: ^4.5.1
 
 onlyBuiltDependencies:
   - '@parcel/watcher'
